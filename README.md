@@ -59,20 +59,23 @@ Final result
 
 Dashboard KPI Page
 
-![Sales Insight - Page KPI](https://github.com/user-attachments/assets/8b8ac32a-58b3-4727-831a-d3bfda485189)
+
+![Screenshot 2024-08-11 140817](https://github.com/user-attachments/assets/d65716a2-5db7-474d-8204-210f9299174b)
 
 
 Dashboard Performance Insights
 
 
-![Sales Insight - Page Performance Insights](https://github.com/user-attachments/assets/689b6cb1-bf65-4efe-a9db-78d43da644d4)
+
+![Screenshot 2024-08-11 154617](https://github.com/user-attachments/assets/c6c0d585-03db-4abd-9255-599e4ac66917)
 
 
 Dashboard Profit Analysis
 
 
-![Sales Insight - Page Profit Analysis (1)](https://github.com/user-attachments/assets/ba497d17-aac6-46cf-964d-1fb46f676e16)
 
+
+![Screenshot 2024-08-11 154719](https://github.com/user-attachments/assets/98b21946-3845-4501-98b2-331891b37113)
 
 
 
